@@ -87,7 +87,7 @@ class App extends Component {
             key={character.id}
             name={character.name}
             image={character.image}
-            occupation={character.occupation}
+            location={character.location}
           />
         ))}
       </Wrapper>

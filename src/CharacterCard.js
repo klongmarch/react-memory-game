@@ -12,7 +12,7 @@ function CharacterCard(props) {
                         <strong>Name:</strong>{props.name}
                     </li>
                     <li>
-                        <strong>Occupation: </strong>{props.occupation}
+                        <strong>Location: </strong>{props.location}
                     </li>
                 </ul>
             </div>
